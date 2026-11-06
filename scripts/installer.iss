@@ -4,7 +4,7 @@
 #define MyAppName "Portloom"
 #define MyAppVersion "1.0.0"
 #define MyAppPublisher "Portloom Open Source"
-#define MyAppURL "https://github.com/RovelLabs/1"
+#define MyAppURL "https://github.com/ParanoaiDev/1"
 #define MyAppExeName "portloom.cmd"
 
 [Setup]
